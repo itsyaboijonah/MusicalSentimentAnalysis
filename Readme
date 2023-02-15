@@ -1,0 +1,18 @@
+report.pdf contains the report in the required format.
+
+multiclass.ipynb is a Python 3 Jupyter Notebook containing the code to our multiclass model.
+
+binary.ipynb is the same but for the binary classifier.
+
+The scripts we wrote to reconstruct the datasets and perform data mining (and getting them in the right format) are all in the "Data Mining" folder.
+
+The pretrained GloVe embeddings we used can be downloaded here (It's a bit over 800mb so we didn't upload it): 
+http://nlp.stanford.edu/data/glove.6B.zip.
+
+ml_balanced.txt is the multiclass MoodyLyrics dataset.
+
+ml_pn_balanced is the binary MoodyLyrics dataset.
+
+extra.txt is the manually cleaned additional dataset (SebinDuke) downloaded from GitHub for testing how well the model generalizes.
+
+
